@@ -35,12 +35,13 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 🎯 Core Focus & Specializations
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adnan-ashraf055&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnan-ashraf055&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</p>
+| Domain | Focus Areas | Key Tools |
+| :--- | :--- | :--- |
+| **Machine Learning** | Supervised Learning, Classification, Regression, Feature Engineering | Scikit-Learn, Pandas, NumPy |
+| **Deep Learning & GenAI** | Neural Networks, Model Optimization, LLM Integration | TensorFlow, PyTorch |
+| **Data Analytics** | Exploratory Data Analysis (EDA), Data Visualization, Preprocessing | Matplotlib, Seaborn, SQL |
 
 ---
 
