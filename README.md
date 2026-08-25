@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Adnan%20Ashraf&fontSize=50&animation=fadeIn&fontAlignY=38" width="100%"/>
+
 # Hi, I'm Adnan Ashraf 👋
 ### BCA AIML Student | Aspiring AI/GenAI & Machine Learning Engineer
 
@@ -5,7 +7,8 @@
 - 🌱 Deepening knowledge in Generative AI, Deep Learning, and Python-based ML frameworks.
 - 💼 Seeking AI/ML Internships and Junior Data Science Roles.
 
-### 🛠️ Languages & Core Tools
+---
+
 ### 💼 Technical Skills
 
 #### 🐍 Programming Languages
@@ -22,9 +25,25 @@
 #### 🛠️ Developer Tools & Environments
 [![My Tools](https://skillicons.dev/icons?i=git,github,vscode,pycharm,anaconda,docker,linux)](https://skillicons.dev)
 
-#### 🌐 Platforms & Socials
-[![Platforms](https://skillicons.dev/icons?i=linkedin,gmail)](https://skillicons.dev)
+---
+
+### 🌟 Featured Machine Learning Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Breast Cancer Classification](https://github.com/adnan-ashraf055/breast-cancer-classification)** | Supervised ML classification model predicting cancer diagnoses using Scikit-Learn. | `Python` `Scikit-Learn` `Pandas` |
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adnan-ashraf055&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnan-ashraf055&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+</p>
+
+---
 
 ### 📫 Connect with me:
-- **LinkedIn:** https://www.linkedin.com/in/adnan-ashraf055
-- **Email:** adnanashrafad786@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-ashraf055)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adnanashrafad786@gmail.com)
