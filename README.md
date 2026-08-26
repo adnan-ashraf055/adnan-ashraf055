@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4f520fa8-cbc2-43a2-8f93-f5cc73b0dc2d" /><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Adnan%20Ashraf&fontSize=50&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Adnan%20Ashraf&fontSize=50&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 # Hi, I'm Adnan Ashraf 👋
 ### BCA AIML Student | Aspiring AI/GenAI & Machine Learning Engineer
