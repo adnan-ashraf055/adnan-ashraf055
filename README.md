@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Adnan%20Ashraf&fontSize=50&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4f520fa8-cbc2-43a2-8f93-f5cc73b0dc2d" /><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Adnan%20Ashraf&fontSize=50&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 # Hi, I'm Adnan Ashraf 👋
 ### BCA AIML Student | Aspiring AI/GenAI & Machine Learning Engineer
@@ -27,11 +27,15 @@
 
 ---
 
-### 🌟 Featured Machine Learning Projects
+
+### 🤖 Featured AI & Machine Learning Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Breast Cancer Classification](https://github.com/adnan-ashraf055/breast-cancer-classification)** | Supervised ML classification model predicting cancer diagnoses using Scikit-Learn. | `Python` `Scikit-Learn` `Pandas` |
+| **[DarkLens](../DarkLens)** | Collaborative AI-powered dark pattern detection engine that analyzes e-commerce screenshots and identifies manipulation tactics based on India's CCPA 2023 legal taxonomy. | `AI/ML` `Python` `JavaScript` |
+| **[Breast Cancer Classification](../breast-cancer-classification)** | Supervised machine learning project that predicts breast cancer diagnosis using classification techniques and Scikit-Learn. | `Python` `Scikit-Learn` `Pandas` `NumPy` |
+
+---
 
 ---
 
