@@ -28,13 +28,13 @@
 ---
 
 
-### 🤖 Featured AI & Machine Learning Projects
+## 🤖 Featured AI & Machine Learning Projects
 
 | Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[DarkLens](../DarkLens)** | Collaborative AI-powered dark pattern detection engine that analyzes e-commerce screenshots and identifies manipulation tactics based on India's CCPA 2023 legal taxonomy. | `AI/ML` `Python` `JavaScript` |
-| **[Breast Cancer Classification](../breast-cancer-classification)** | Supervised machine learning project that predicts breast cancer diagnosis using classification techniques and Scikit-Learn. | `Python` `Scikit-Learn` `Pandas` `NumPy` |
-
+|---|---|---|
+| [DarkLens](YOUR_DARKLENS_REPOSITORY_LINK) | Collaborative AI-powered dark pattern detection engine that analyzes e-commerce screenshots and identifies manipulation tactics based on India's CCPA 2023 legal taxonomy. | `AI/ML` `Python` `JavaScript` |
+| [Landslide Risk Monitoring](https://github.com/adnan-ashraf055/landslide-risk-monitoring) | AI/ML-based landslide risk prediction system that analyzes rainfall, soil moisture, slope, previous landslides, and elevation to predict **LOW, MEDIUM, or HIGH** landslide risk using a Random Forest classifier. | `Python` `Machine Learning` `Scikit-Learn` `Pandas` `NumPy` |
+| [Breast Cancer Classification](YOUR_BREAST_CANCER_REPOSITORY_LINK) | Supervised machine learning project that predicts breast cancer diagnosis using classification techniques and Scikit-Learn. | `Python` `Scikit-Learn` `Pandas` `NumPy` |
 ---
 
 ---
